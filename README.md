@@ -30,16 +30,36 @@ I specialize in transforming raw data into actionable insights using **SQL, Powe
 <li>Improved decision visibility by <b>~20%</b> using dashboards</li>
 </ul>
 
-## 🛠️ Skills
+<h2>🛠️ Skills</h2>
 
-### 📊 Analytics & Business
+<h3>📊 BI & Visualization Tools</h3>
+<p>
+Power BI — DAX, Data Modeling, KPI Cards, Drill-Through, Slicers<br>
+Tableau — Calculated Fields, Heat Maps, Trend Lines, Filters<br>
+Google Looker Studio — Interactive Reports, Scorecards
+</p>
 
-Funnel Analysis • KPI Design • Customer Segmentation • Risk Analysis
-Trend Analysis • Business Intelligence • Hypothesis Testing • Data Interpretation
+<h3>💻 Programming & Query Languages</h3>
+<p>
+SQL — Joins, Subqueries, Window Functions, Aggregations<br>
+Python — Pandas, NumPy, Matplotlib, Seaborn, EDA
+</p>
 
-### 💻 Data & Tools
+<h3>📁 Excel & MIS</h3>
+<p>
+Advanced Excel — XLOOKUP, SUMIFS, INDEX-MATCH, Array Formulas<br>
+Pivot Tables, Power Query, Macros/VBA<br>
+KPI Dashboards, Variance Reports, MIS Automation
+</p>
 
-SQL • Power BI • Excel • Python • DAX • Data Modeling • EDA • Power Query
+<h3>📈 Analytics</h3>
+<p>
+KPI Reporting & Dashboard Design<br>
+Data Visualization & Storytelling<br>
+Trend Analysis & Variance Analysis<br>
+Exploratory Data Analysis (EDA)<br>
+Statistical Analysis
+</p>
 
 ### 📁 Platforms
 

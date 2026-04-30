@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pranay Shrivastava
 
-📊 Data Analyst | Business Intelligence | SQL | Power BI | Python
+📊 Data Analyst | MIS Executive | Business Intelligence |Excel | SQL | Power BI | Python
 
 🌏 Open to Opportunities: India 🇮🇳 | Remote 🌐
 
@@ -29,7 +29,6 @@ I specialize in transforming raw data into actionable insights using **SQL, Powe
 <li>Analyzed <b>$1.2B+ revenue dataset</b> for business insights</li>
 <li>Improved decision visibility by <b>~20%</b> using dashboards</li>
 </ul>
----
 
 ## 🛠️ Skills
 

@@ -23,11 +23,12 @@ I specialize in transforming raw data into actionable insights using **SQL, Powe
 
 ## 🎯 Key Achievements
 
-✅ Diagnosed **~90–95% funnel drop-offs** in marketing campaigns
-✅ Identified **20–30% high-risk customer segments** in banking analysis
-✅ Analyzed **$1.2B+ revenue data** to uncover key performance drivers
-✅ Improved decision visibility by **~20% using Power BI dashboards**
-
+<ul>
+<li>Diagnosed <b>~90–95% funnel drop-offs</b> in marketing campaigns</li>
+<li>Segmented <b>20–30% high-risk customers</b> in financial analysis</li>
+<li>Analyzed <b>$1.2B+ revenue dataset</b> for business insights</li>
+<li>Improved decision visibility by <b>~20%</b> using dashboards</li>
+</ul>
 ---
 
 ## 🛠️ Skills

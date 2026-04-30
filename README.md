@@ -208,7 +208,7 @@ CGPA: 7.80
 <h2>🎯 Career Objective</h2>
 
 <p>
-Seeking roles in <b>Data Analytics, Business Intelligence, or Consulting</b> where I can apply analytical thinking to solve real-world business problems and drive measurable impact.
+Seeking roles in <b>Data Analytics, MIS Executive, Business Intelligence, or Consulting</b> where I can apply analytical thinking to solve real-world business problems and drive measurable impact.
 </p>
 
 <hr>

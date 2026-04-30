@@ -1,100 +1,107 @@
-<h1 align="center">👋 Pranay Shrivastava</h1>
+# 👋 Hi, I'm Pranay Shrivastava
 
-<p align="center">
-<b>Data Analyst | Business Intelligence | SQL | Power BI | Python</b><br>
-Turning data into decisions that drive business performance
-</p>
+📊 Data Analyst | Business Intelligence | SQL | Power BI | Python
 
-<hr>
+🌏 Open to Opportunities: India 🇮🇳 | Remote 🌐
 
-<h2>💼 Profile</h2>
+---
 
-<p>
-Data Analyst with hands-on experience working on <b>100K+ records</b> across 
-<b>marketing, finance, and sales domains</b>.
-</p>
+## 🚀 About Me
 
-<p>
-Focused on identifying performance gaps, optimizing strategies, and building 
-<b>decision-driven analytics solutions</b>.
-</p>
+I am a Data Analyst with hands-on experience solving real-world business problems across marketing, finance, and sales domains by working with **100K+ records** and building **data-driven analytics solutions**.
 
-<hr>
+I specialize in transforming raw data into actionable insights using **SQL, Power BI, Excel, and Python**, enabling better decision-making and performance optimization.
 
-<h2>📊 Key Impact</h2>
+💡 I focus on:
 
-<ul>
-<li>Diagnosed <b>90–95% funnel drop-offs</b> across marketing campaigns</li>
-<li>Segmented <b>20–30% high-risk customers</b> using financial behavior data</li>
-<li>Analyzed <b>$1.2B+ revenue datasets</b> to identify growth drivers</li>
-<li>Improved decision visibility by <b>~20%</b> through dashboards</li>
-</ul>
+* 📈 Marketing funnel & customer engagement analysis
+* 💳 Financial risk & customer segmentation
+* 💰 Sales performance & revenue intelligence
+* ⚡ Dashboard-driven decision systems
 
-<hr>
+---
 
-<h2>🚀 Featured Work</h2>
+## 🎯 Key Achievements
 
-<h2>📂 PROJECTS</h2>
+✅ Diagnosed **~90–95% funnel drop-offs** in marketing campaigns
+✅ Identified **20–30% high-risk customer segments** in banking analysis
+✅ Analyzed **$1.2B+ revenue data** to uncover key performance drivers
+✅ Improved decision visibility by **~20% using Power BI dashboards**
+
+---
+
+## 🛠️ Skills
+
+### 📊 Analytics & Business
+
+Funnel Analysis • KPI Design • Customer Segmentation • Risk Analysis
+Trend Analysis • Business Intelligence • Hypothesis Testing • Data Interpretation
+
+### 💻 Data & Tools
+
+SQL • Power BI • Excel • Python • DAX • Data Modeling • EDA • Power Query
+
+### 📁 Platforms
+
+Power BI Service • Excel Dashboards • CRM Systems • Reporting Workflows
+
+---
+
+<h2>📂 Featured Projects</h2>
 
 <!-- Project 1 -->
-<h3> 1. Marketing Funnel & Campaign Performance Analytics (Meta Ads)</h3>
+<h3>🔹 Marketing Funnel & Campaign Performance Analytics (Meta Ads)</h3>
 <ul>
-  <li>Designed end-to-end marketing analytics workflow to track user journey across funnel stages (Impressions → Clicks → Conversions) using structured campaign datasets</li>
-  <li>Developed KPI layer with CTR, Engagement Rate, Conversion Rate, CPC using DAX for consistent performance tracking</li>
-  <li>Performed audience segmentation and cohort analysis across age, gender, and geography to identify high-performing segments</li>
-  <li>Diagnosed ~90–95% funnel drop-offs and detected high-cost low-conversion campaigns impacting ROI</li>
+  <li>Designed funnel model (216K → 25.4K → 1.3K) to evaluate user journey across conversion stages</li>
+  <li>Diagnosed <b>~90–95% drop-off</b> between engagement and purchase stages</li>
+  <li>Segmented audience cohorts, identifying <b>25–30% higher engagement segments</b></li>
+  <li>Detected high-cost, low-conversion campaigns impacting overall ROI</li>
 </ul>
-<p><b>Tools:</b> Power BI · DAX · SQL · Excel · Data Modeling</p>
+<p><b>Tools:</b> Power BI • SQL • Excel • DAX</p>
 
 <!-- Project 2 -->
-<h3> 2. Customer Credit Risk & Financial Behavior Analysis</h3>
+<h3>🔹 Customer Credit Risk & Financial Behavior Analysis</h3>
 <ul>
-  <li>Built analytical dataset by integrating customer financial attributes to evaluate credit behavior and risk exposure</li>
-  <li>Engineered loan-to-deposit ratio and credit utilization metrics for risk classification and segmentation</li>
-  <li>Segmented customers into risk tiers (20–30% high-risk group) using behavioral indicators</li>
-  <li>Identified threshold condition (ratio &gt;1.5) as key signal for potential default risk</li>
-  <li>Designed dashboard layer for risk monitoring and decision support workflows</li>
+  <li>Analyzed customer financial data to evaluate credit behavior and risk exposure</li>
+  <li>Classified <b>20–30% customers as high-risk</b> using behavioral and financial indicators</li>
+  <li>Identified <b>loan-to-deposit ratio >1.5</b> as a key default risk signal</li>
+  <li>Flagged high credit exposure segments for improved risk monitoring</li>
 </ul>
-<p><b>Tools:</b> Power BI · SQL · Excel · Data Modeling</p>
+<p><b>Tools:</b> Power BI • SQL • Excel</p>
 
 <!-- Project 3 -->
-<h3> 3. Customer Engagement & Marketing Channel Analysis</h3>
+<h3>🔹 Customer Engagement & Marketing Channel Analysis</h3>
 <ul>
-  <li>Processed and structured 38K+ interaction records to build engagement-focused analytical dataset</li>
-  <li>Designed multi-channel performance tracking framework to evaluate campaign effectiveness</li>
-  <li>Performed funnel and retention analysis, identifying ~88–92% drop-off post engagement stage</li>
-  <li>Conducted content performance analysis, revealing video-based campaigns drive 30–40% higher engagement</li>
-  <li>Applied sentiment analysis (Python NLP) to assess qualitative customer feedback</li>
+  <li>Processed <b>38K+ interaction records</b> to evaluate customer engagement and campaign performance</li>
+  <li>Diagnosed <b>~88–92% drop-off</b> after engagement stage and <b>18–22% decline</b> in effectiveness</li>
+  <li>Identified <b>video content drives 30–40% higher engagement</b> compared to static formats</li>
+  <li>Performed sentiment analysis using Python (NLP) to assess customer experience</li>
 </ul>
-<p><b>Tools:</b> Power BI · Python · SQL · Excel · EDA</p>
+<p><b>Tools:</b> Power BI • Python • SQL • Excel</p>
 
 <!-- Project 4 -->
-<h3> 4. Sales Performance Intelligence & Regional Analytics</h3>
+<h3>🔹 Sales Performance Intelligence & Regional Analytics</h3>
 <ul>
-  <li>Built sales intelligence model analyzing $1.2B+ revenue and $461M profit data across products and regions</li>
-  <li>Designed dimensional data model (fact + dimension structure) for product, region, and customer-level analysis</li>
-  <li>Performed trend and seasonality analysis, identifying 10–12% peak sales periods (May–July)</li>
-  <li>Identified top-performing products contributing ~40% revenue and regional concentration (California ~19.5%)</li>
-  <li>Developed BI dashboards supporting pricing strategy, product optimization, and regional planning workflows</li>
+  <li>Analyzed <b>$1.2B+ revenue dataset</b> and <b>$461M profit performance</b></li>
+  <li>Identified top-performing products contributing <b>~40%+ total revenue</b></li>
+  <li>Detected <b>seasonal trends (10–12% peak)</b> during May–July period</li>
+  <li>Highlighted regional contribution with <b>California ~19.5% revenue ($228M)</b></li>
 </ul>
-<p><b>Tools:</b> Power BI · DAX · Excel · Data Modeling</p>
+<p><b>Tools:</b> Power BI • Excel • DAX</p>
 
-<hr>
+---
 
-<h2>🛠 Skills</h2>
+## 🎯 Career Objective
 
-<p>
-<b>Analytics:</b> Funnel Analysis, KPI Design, Customer Segmentation, Risk Analysis<br>
-<b>Tools:</b> SQL, Power BI, Excel, Python, DAX<br>
-<b>Focus:</b> Business Intelligence, Data Interpretation, Decision Support
-</p>
+Seeking opportunities as a **Data Analyst / Business Analyst / BI Analyst** where I can apply analytical thinking, data-driven insights, and dashboard development skills to solve real business problems.
 
-<hr>
+---
 
-<h2>📫 Contact</h2>
+## 📫 Contact Me
 
-<p>
-📧 <a href="mailto:shrivastavapranay.35@gmail.com">shrivastavapranay.35@gmail.com</a><br>
-🔗 <a href="https://www.linkedin.com/in/pranayshrivastavaofficial/">LinkedIn</a><br>
-🐙 <a href="https://github.com/pranay-125">GitHub</a>
-</p>
+👤 Pranay Shrivastava
+📧 [shrivastavapranay.35@gmail.com](mailto:shrivastavapranay.35@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/pranayshrivastavaofficial/
+🐙 GitHub: https://github.com/pranay-125
+
+⭐ If you find my work useful, feel free to connect!

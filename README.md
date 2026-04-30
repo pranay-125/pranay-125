@@ -97,11 +97,29 @@ Seeking opportunities as a **Data Analyst / Business Analyst / BI Analyst** wher
 
 ---
 
-## 📫 Contact Me
+<h2>📫 Contact Me</h2>
 
-👤 Pranay Shrivastava
-📧 [shrivastavapranay.35@gmail.com](mailto:shrivastavapranay.35@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/pranayshrivastavaofficial/
-🐙 GitHub: https://github.com/pranay-125
+<table>
+  <tr>
+    <td><b>👤 Name</b></td>
+    <td>Pranay Shrivastava</td>
+  </tr>
+  <tr>
+    <td><b>📧 Email</b></td>
+    <td><a href="mailto:shrivastavapranay.35@gmail.com">shrivastavapranay.35@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><b>📞 Phone</b></td>
+    <td>+91 9669852249</td>
+  </tr>
+  <tr>
+    <td><b>💼 LinkedIn</b></td>
+    <td><a href="https://www.linkedin.com/in/pranayshrivastavaofficial/">linkedin.com/in/pranayshrivastavaofficial</a></td>
+  </tr>
+  <tr>
+    <td><b>🐙 GitHub</b></td>
+    <td><a href="https://github.com/pranay-125">github.com/pranay-125</a></td>
+  </tr>
+</table>
 
-⭐ If you find my work useful, feel free to connect!
+⭐ If you find my work useful, feel free to connect on LinkedIn!

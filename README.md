@@ -41,28 +41,6 @@ How can data directly improve business decisions, profitability, and efficiency?
 
 <hr>
 
-<h2>🛠 Core Skills</h2>
-
-<ul>
-<li>Data Cleaning, Transformation & Validation</li>
-<li>Exploratory Data Analysis (EDA)</li>
-<li>KPI Design & Business Metrics</li>
-<li>Funnel Analysis & Trend Analysis</li>
-<li>Customer Segmentation & Risk Modeling</li>
-<li>Dashboard Development & Data Visualization</li>
-<li>Business Insight Generation & Decision Support</li>
-</ul>
-
-<hr>
-
-<h2>⚙️ Tools & Technologies</h2>
-
-<p>
-<b>SQL</b> | <b>Power BI</b> | <b>Excel</b> | <b>Python</b> | <b>DAX</b> | <b>Data Modeling</b>
-</p>
-
-<hr>
-
 <h2>🔥 Featured Projects (Case Studies)</h2>
 
 <hr>
@@ -191,6 +169,28 @@ Built a <b>Sales Intelligence system</b> analyzing <b>$1.2B+ revenue data</b> ac
 
 <p>
 🔗 <a href="https://github.com/pranay-125/sales-performance-intelligence-regional-analytics">View Project</a>
+</p>
+
+<hr>
+
+<h2>🛠 Core Skills</h2>
+
+<ul>
+<li>Data Cleaning, Transformation & Validation</li>
+<li>Exploratory Data Analysis (EDA)</li>
+<li>KPI Design & Business Metrics</li>
+<li>Funnel Analysis & Trend Analysis</li>
+<li>Customer Segmentation & Risk Modeling</li>
+<li>Dashboard Development & Data Visualization</li>
+<li>Business Insight Generation & Decision Support</li>
+</ul>
+
+<hr>
+
+<h2>⚙️ Tools & Technologies</h2>
+
+<p>
+<b>SQL</b> | <b>Power BI</b> | <b>Excel</b> | <b>Python</b> | <b>DAX</b> | <b>Data Modeling</b>
 </p>
 
 <hr>

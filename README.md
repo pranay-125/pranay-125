@@ -32,33 +32,28 @@ I specialize in transforming raw data into actionable insights using **SQL, Powe
 
 <h2>🛠️ Skills</h2>
 
-<h3>📊 BI & Visualization Tools</h3>
+<h3>📊 BI & Visualization</h3>
 <p>
-Power BI — DAX, Data Modeling, KPI Cards, Drill-Through, Slicers<br>
-Tableau — Calculated Fields, Heat Maps, Trend Lines, Filters<br>
-Google Looker Studio — Interactive Reports, Scorecards
+Power BI — DAX, Data Modeling (Star Schema), KPI Cards, Drill-Through, Slicers, Dashboard Design<br>
+Excel — Dashboarding, Pivot Tables, KPI Tracking, Data Analysis
 </p>
 
-<h3>💻 Programming & Query Languages</h3>
+<h3>💻 Data & Query Languages</h3>
 <p>
-SQL — Joins, Subqueries, Window Functions, Aggregations<br>
-Python — Pandas, NumPy, Matplotlib, Seaborn, EDA
+SQL — Joins, Aggregations, Filtering, Data Extraction, Query-Based Analysis<br>
+Python — Pandas, NumPy, Matplotlib, Exploratory Data Analysis (EDA), Basic NLP
 </p>
 
-<h3>📁 Excel & MIS</h3>
+<h3>📁 Data Processing & Workflows</h3>
 <p>
-Advanced Excel — XLOOKUP, SUMIFS, INDEX-MATCH, Array Formulas<br>
-Pivot Tables, Power Query, Macros/VBA<br>
-KPI Dashboards, Variance Reports, MIS Automation
+Data Cleaning, Data Transformation, Data Preparation Workflows<br>
+Dataset Structuring, Feature Engineering (Basic), Data Integration for Reporting
 </p>
 
-<h3>📈 Analytics</h3>
+<h3>📈 Analytics & Business Understanding</h3>
 <p>
-KPI Reporting & Dashboard Design<br>
-Data Visualization & Storytelling<br>
-Trend Analysis & Variance Analysis<br>
-Exploratory Data Analysis (EDA)<br>
-Statistical Analysis
+Funnel Analysis, KPI Design, Customer Segmentation, Risk Analysis<br>
+Trend Analysis, Revenue Analysis, Cohort Analysis, Business Intelligence Reporting
 </p>
 
 ### 📁 Platforms
